@@ -7,7 +7,7 @@ It includes network setup, VLAN segmentation, ACL security, DHCP configuration, 
 
 ## 📂 Files
 📎 [Task 1 – Network Design (PDF)](./CIS2707_Coursework_1_Task_1_Wireless_Networking_Thomas_Mason.pdf)  
-📎 [Task 2 – VLAN & ACL Configuration (PDF)](./CIS2707_Coursework_1_Task_2_Wireless_Networking_Thomas_Mason.docx.pdf)  
+📎 [Task 2 – VLAN & ACL Configuration (PDF)](./CIS2707_Coursework_1_Task_2_Wireless_Networking_Thomas_Mason.pdf)  
 📎 [Task 3 – Performance Evaluation & Improvements (PDF)](./CIS2707_Coursework_1_Task_3_Wireless_Networking_Thomas_Mason.pdf)  
 💾 [Cisco Packet Tracer Simulation (.pkt)](./Wireless_Network_Task_2.pkt)
 
